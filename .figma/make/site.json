@@ -1,0 +1,12 @@
+{
+  "title": "综合教育平台 · 连接教育，协同共进",
+  "language": "zh-CN",
+  "description": "Comprehensive educational platform offering integrated learning resources and course management for students and educators with an intuitive, clean interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

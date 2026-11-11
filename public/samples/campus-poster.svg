@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eef2ff"/><stop offset="1" stop-color="#e2eafa"/></linearGradient></defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <circle cx="540" cy="80" r="170" fill="#4e73f8" opacity=".07"/>
+  <circle cx="70" cy="710" r="150" fill="#4e73f8" opacity=".06"/>
+  <g font-family="sans-serif" fill="#26334d">
+    <text x="60" y="90" fill="#4e73f8" font-size="17" letter-spacing="4">EDU CONNECT</text>
+    <text x="60" y="205" font-size="48" font-weight="bold">遇见校园</text>
+    <text x="60" y="275" font-size="48" font-weight="bold">看见成长</text>
+    <text x="63" y="325" fill="#7f8ba1" font-size="20">2026 秋季校园开放日</text>
+    <g transform="translate(130 410)" fill="none" stroke="#4e73f8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m0 55 170-55 170 55-170 60Z" fill="#dce5ff"/><path d="M60 77v75q110 75 220 0V77"/><path d="M340 55v115"/><path d="M331 170h18v30h-18Z" fill="#4e73f8"/></g>
+    <text x="60" y="690" font-size="20">杭州市实验小学</text>
+    <text x="60" y="730" fill="#7f8ba1" font-size="14">2026.11.12 · 仅供产品原型演示</text>
+  </g>
+</svg>
